@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+id_rsa_vmn2014
+id_rsa_vmn2014.pub
